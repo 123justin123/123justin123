@@ -1,7 +1,5 @@
 <h1 align="center">Salut, je m'appelle Justin</h1>
 <h3 align="center">Je suis étudiant en Informatique.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
