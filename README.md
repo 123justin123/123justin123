@@ -1,4 +1,4 @@
-# <img src="/assets/stan.png" width="50" alt="Stan Pines"/> Welcome to my profil!
+# <img src="/assets/stan.png" width="50" alt="Stan Pines"/> Welcome to my profile!
 
 <p align="center">
   <img src="/assets/bill.gif" width="250" alt="Bill Cipher spinning">
@@ -22,4 +22,9 @@ I enjoy learning new technologies and solving problems with clean and efficient 
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
+---
+
+<p align="center">
+    <img src="/assets/dandinou.webp" alt="dandinou">
+</p>
 
